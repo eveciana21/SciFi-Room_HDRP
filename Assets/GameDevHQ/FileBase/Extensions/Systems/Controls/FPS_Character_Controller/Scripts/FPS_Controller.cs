@@ -61,6 +61,14 @@ namespace GameDevHQ.FileBase.Plugins.FPS_Character_Controller
             {
                 _controller.height = 1.0f;
             }
+            if (Input.GetKey(KeyCode.R))
+            {
+                Cursor.visible = false;
+            }
+            else if (Input.GetKey(KeyCode.E))
+            {
+                Cursor.visible = true;
+            }
         }
 
         void FPSController()

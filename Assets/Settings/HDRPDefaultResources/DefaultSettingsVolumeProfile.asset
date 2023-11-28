@@ -232,7 +232,7 @@ MonoBehaviour:
     m_Value: 1
   m_MinSmoothness:
     m_OverrideState: 1
-    m_Value: 0.508
+    m_Value: 0.52
   m_SmoothnessFadeStart:
     m_OverrideState: 1
     m_Value: 1
@@ -247,7 +247,7 @@ MonoBehaviour:
     m_Value: 1
   screenFadeDistance:
     m_OverrideState: 1
-    m_Value: 0.45
+    m_Value: 1
   accumulationFactor:
     m_OverrideState: 1
     m_Value: 0.75
